@@ -33,7 +33,7 @@ local url = 'user:mdp@ip:port'         -- user:pass@ip:port de domoticz, pour la
 
 ----------------------------------------------
 --       Fin de la partie configuration       --
-----------------------------------------------
+---------------------------------------------- 
 
 
 function timedifference(d)
